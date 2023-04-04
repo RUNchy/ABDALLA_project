@@ -1,0 +1,8 @@
+/home/abdalla/programming/geant/SciFi-main/SciFi/build/CMakeFiles/scifi.dir
+/home/abdalla/programming/geant/SciFi-main/SciFi/build/CMakeFiles/ex2.dir
+/home/abdalla/programming/geant/SciFi-main/SciFi/build/CMakeFiles/edit_cache.dir
+/home/abdalla/programming/geant/SciFi-main/SciFi/build/CMakeFiles/rebuild_cache.dir
+/home/abdalla/programming/geant/SciFi-main/SciFi/build/CMakeFiles/list_install_components.dir
+/home/abdalla/programming/geant/SciFi-main/SciFi/build/CMakeFiles/install.dir
+/home/abdalla/programming/geant/SciFi-main/SciFi/build/CMakeFiles/install/local.dir
+/home/abdalla/programming/geant/SciFi-main/SciFi/build/CMakeFiles/install/strip.dir
